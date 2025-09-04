@@ -1,8 +1,8 @@
 # TITLE OF PROJECT
 
-AUTHOR NAME
+Ashmitha Kanagiah
 
-[View this project online](URL_FOR_THE_RUNNING_PROJECT)
+[View this project online](https://ashmyytaa.github.io/cart253-/)
 
 ## Description
 
